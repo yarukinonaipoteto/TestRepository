@@ -1,0 +1,1 @@
+gitcommit-m"test.txtの作成"
