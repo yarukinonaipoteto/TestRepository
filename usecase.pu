@@ -1,0 +1,6 @@
+@startuml
+left to right direction
+:生徒:-->(課題)
+:生徒:-->(成績)
+:生徒:-->(予定)
+@enduml
