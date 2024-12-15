@@ -1,3 +1,5 @@
-@startuml
+@startumJ
+left to right direction
 :user:-->(function)
-@enduml
+:user:-->(function2)
+@endumJ
