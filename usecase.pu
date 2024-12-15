@@ -1,5 +1,6 @@
-@startumJ
+@startuml
 left to right direction
-:user:-->(function)
-:user:-->(function2)
-@endumJ
+:生徒:-->(課題)
+:生徒:-->(成績)
+:生徒:-->(予定)
+@enduml
