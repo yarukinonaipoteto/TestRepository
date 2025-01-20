@@ -1,0 +1,10 @@
+@startuml
+actor Client
+entity Server
+database Database
+Client -> Server: Request data
+Server -> Database: Query data
+Database --> Server: Return data
+Server --> Client: Send data
+@enduml
+
